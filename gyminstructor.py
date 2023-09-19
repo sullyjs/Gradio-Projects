@@ -1,6 +1,5 @@
 import openai #importing OpenAI API to use their language model
 import gradio #importing Gradio library for creating a web interface for this model
-import re #importing regular expression module to find mentions of race and sex
 
 #setting OpenAI API key
 openai.api_key = "API key"
